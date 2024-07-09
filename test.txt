@@ -1,4 +1,4 @@
-line 1
+line1 adding from branch2  to check conflict
 
 modification of files from feature/test1
 line2
