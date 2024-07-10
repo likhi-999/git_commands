@@ -1,5 +1,5 @@
 line1 adding from branch2  to check conflict
 modification of files from feature/test1
-line2 changed by test2
+line2 changed by test1
 adding anither file
 
