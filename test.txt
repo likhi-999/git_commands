@@ -4,3 +4,5 @@ line2 changed by test1
 adding anither file
 adding line to test conflict from test1
 testing push origin
+
+test diff
