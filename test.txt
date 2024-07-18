@@ -7,3 +7,5 @@ adding line to test conflict from test1
 testing push origin
 
 test diff
+
+testing pr before merge
